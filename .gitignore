@@ -1,0 +1,44 @@
+# Ignore build artifacts and executables
+*.exe
+*.obj
+*.o
+*.out
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# Ignore dependency and log files
+*.log
+*.tmp
+*.cache
+
+# Ignore Visual Studio/VSCode files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore other common files
+*.swp
+*.swn
+*.swo
+
+# Ignore compiled Python (if any)
+__pycache__/
+*.pyc
+
+# Ignore test output
+/test-*
