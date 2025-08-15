@@ -1,8 +1,0 @@
-{
-    "debug.enableStatusBarColor": false,
-    "files.associations": {
-        "*.embeddedhtml": "html",
-        "\"*.php\"": "\"html\"",
-        "pthread.h": "c"
-    }
-}
